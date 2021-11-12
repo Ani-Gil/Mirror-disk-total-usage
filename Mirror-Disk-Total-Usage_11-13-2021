@@ -1,0 +1,12 @@
+Filesystem     1G-blocks  Used Available Use% Mounted on
+udev                 16G    0G       16G   0% /dev
+tmpfs                 4G    1G        3G  11% /run
+/dev/sdf2            92G    7G       81G   8% /
+tmpfs                16G    0G       16G   0% /dev/shm
+tmpfs                 1G    0G        1G   0% /run/lock
+tmpfs                16G    0G       16G   0% /sys/fs/cgroup
+/dev/sdc1          1833G  463G     1277G  27% /WEB/mirror/2TB-2
+/dev/md127         3667G 3573G        0G 100% /WEB/mirror/4TB-2
+/dev/sde1          3667G 3353G      128G  97% /WEB/mirror/4TB-1
+/dev/sda1          5544G 5064G      201G  97% /WEB/mirror/6TB-1
+tmpfs                 4G    0G        4G   0% /run/user/0
