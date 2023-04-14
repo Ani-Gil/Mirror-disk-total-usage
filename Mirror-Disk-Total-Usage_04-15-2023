@@ -1,0 +1,6 @@
+/dev/sda1          9240G 3377G     5398G  39% /WEB/mirror/10TB-1
+/dev/sde1          5544G 2066G     3200G  40% /WEB/mirror/6TB-4
+/dev/sdb1          5544G 3677G     1589G  70% /WEB/mirror/6TB-3
+/dev/sdd1          5544G 4945G      320G  94% /WEB/mirror/6TB-1
+/dev/sdc1          5544G 4756G      510G  91% /WEB/mirror/6TB-2
+/dev/sdf1          3667G 3016G      465G  87% /WEB/mirror/4TB-1
