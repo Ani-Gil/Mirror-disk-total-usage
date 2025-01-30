@@ -1,4 +1,4 @@
-/dev/sdd                9313G 3267G     6046G  36% /siwoo.org/10TB-HDD01
 /dev/sda                5588G 4403G     1185G  79% /siwoo.org/6TB-HDD01
-/dev/sdc                9313G 1095G     8218G  12% /siwoo.org/10TB-HDD02
+/dev/sdd                9313G 1107G     8206G  12% /siwoo.org/10TB-HDD02
 /dev/sdb                5588G 4196G     1392G  76% /siwoo.org/6TB-HDD02
+/dev/sdc                9313G 3398G     5915G  37% /siwoo.org/10TB-HDD01
