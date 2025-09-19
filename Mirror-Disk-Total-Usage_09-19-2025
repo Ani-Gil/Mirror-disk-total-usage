@@ -1,2 +1,2 @@
-/dev/sdc                9313G 7903G     1410G  85% /siwoo.org/10TB-HDD01
-/dev/sdd                9313G 8307G     1006G  90% /siwoo.org/10TB-HDD02
+/dev/vda           9313G 8318G      995G  90% /siwoo.org/10TB-HDD02
+/dev/vdb           9313G 7921G     1392G  86% /siwoo.org/10TB-HDD01
